@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "113317652802",
+    "firebase_url": "https://fir-tarea.firebaseio.com",
+    "project_id": "fir-tarea",
+    "storage_bucket": "fir-tarea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113317652802:android:a581411efafed7cb",
+        "android_client_info": {
+          "package_name": "tc6.mamendez.firebase_tarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113317652802-6i84ptr921met8r0avogjpuovhr5h1vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tc6.mamendez.firebase_tarea",
+            "certificate_hash": "9ab359c85d887cf223dea2a7ed5029655cc84ec8"
+          }
+        },
+        {
+          "client_id": "113317652802-dan8i6a5t04121osd3jsn8mtjottdmum.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "113317652802-dan8i6a5t04121osd3jsn8mtjottdmum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJxVjtkXwM9BjsXVTVduUsFgn_TwRrO6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113317652802-dan8i6a5t04121osd3jsn8mtjottdmum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
